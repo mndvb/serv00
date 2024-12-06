@@ -4,7 +4,7 @@
 
 ## run
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/serv00/main/KOLANDserv00.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/mndvb/serv00/main/KOLANDserv00.sh)
 ```
 ---
 ## آموزش کامل اسکریپت و ساخت اکانت serv00 :
